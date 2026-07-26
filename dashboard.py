@@ -18,7 +18,7 @@ REPLAY_LOG_CSV = "replay_log.csv"
 DRIFT_REPORT_CSV = "drift_report.csv"
 REMEDIATION_LOG_CSV = "remediation_log.csv"
 CONTENT_GAP_REPORT_CSV = "content_gap_report.csv"
-DOCS_FOLDER = "docs"
+DOCS_FOLDER = "."
 DRIFT_COLORS = {
     "CONTENT_DRIFT": "#fff3cd",
     "EMBEDDING_DRIFT": "#f8d7da",
