@@ -1,0 +1,16 @@
+question,matched_doc,matched_doc_latest,similarity_baseline,similarity_latest,similarity_drop,hash_changed,doc_changed,drift_type
+How many days of paid annual leave do I get?,leave_policy.txt,leave_policy.txt,0.8444,0.9563,-0.1119,False,False,EMBEDDING_DRIFT
+Can I carry forward unused leave into next year?,leave_policy.txt,leave_policy.txt,0.7302,0.9064,-0.17620000000000002,False,False,EMBEDDING_DRIFT
+How much paid sick leave am I entitled to?,leave_policy.txt,leave_policy.txt,0.7935,0.8928,-0.09930000000000005,False,False,EMBEDDING_DRIFT
+How do I reset my forgotten company password?,password_reset.txt,password_reset.txt,0.8667,0.8524,0.01429999999999998,False,False,NO_DRIFT
+What are the password requirements?,password_reset.txt,password_reset.txt,0.7223,0.8475,-0.12519999999999998,False,False,EMBEDDING_DRIFT
+What happens if I fail to log in 5 times?,password_reset.txt,leave_policy.txt,0.7139,0.8545,-0.14060000000000006,True,True,EMBEDDING_DRIFT
+How do I claim reimbursement for a business trip?,expense_reimbursement.txt,expense_reimbursement.txt,0.8402,0.9092,-0.06900000000000006,False,False,EMBEDDING_DRIFT
+Is alcohol reimbursable during business travel?,expense_reimbursement.txt,expense_reimbursement.txt,0.8012,0.8406,-0.03939999999999999,False,False,EMBEDDING_DRIFT
+How long does it take to get my expense claim processed?,expense_reimbursement.txt,expense_reimbursement.txt,0.7159,0.8767,-0.16080000000000005,False,False,EMBEDDING_DRIFT
+How many days per week can I work remotely?,remote_work_policy.txt,remote_work_policy.txt,0.8423,0.906,-0.06369999999999998,False,False,EMBEDDING_DRIFT
+Do I need to inform HR if I work remotely from another city?,remote_work_policy.txt,remote_work_policy.txt,0.7589,0.8823,-0.12339999999999995,False,False,EMBEDDING_DRIFT
+Does the company provide equipment for remote work?,remote_work_policy.txt,remote_work_policy.txt,0.7686,0.9008,-0.1322000000000001,False,False,EMBEDDING_DRIFT
+When is the open enrollment period for benefits?,benefits_enrollment.txt,benefits_enrollment.txt,0.8307,0.911,-0.08030000000000004,False,False,EMBEDDING_DRIFT
+Can I add my spouse to my health insurance plan?,benefits_enrollment.txt,benefits_enrollment.txt,0.7587,0.9032,-0.14449999999999996,False,False,EMBEDDING_DRIFT
+Does the company cover dental benefits?,benefits_enrollment.txt,benefits_enrollment.txt,0.6794,0.8784,-0.19899999999999995,False,False,EMBEDDING_DRIFT

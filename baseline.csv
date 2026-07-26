@@ -1,0 +1,16 @@
+timestamp,question,matched_doc,similarity,doc_hash,embedding_model
+2026-07-18T08:53:45.580114,How many days of paid annual leave do I get?,leave_policy.txt,0.8444,a1fee0db8bd916c1d6bc1f30422e8250ff21520d5830f8edab7dfd07fda823bc,all-MiniLM-L6-v2
+2026-07-18T08:53:45.580114,Can I carry forward unused leave into next year?,leave_policy.txt,0.7302,a1fee0db8bd916c1d6bc1f30422e8250ff21520d5830f8edab7dfd07fda823bc,all-MiniLM-L6-v2
+2026-07-18T08:53:45.580114,How much paid sick leave am I entitled to?,leave_policy.txt,0.7935,a1fee0db8bd916c1d6bc1f30422e8250ff21520d5830f8edab7dfd07fda823bc,all-MiniLM-L6-v2
+2026-07-18T08:53:45.580114,How do I reset my forgotten company password?,password_reset.txt,0.8667,ff2d7e2be90fe62cfc0939a4e05fb5b3bf9b6ef20c0adeef6c06ec824e1f1ecf,all-MiniLM-L6-v2
+2026-07-18T08:53:45.580114,What are the password requirements?,password_reset.txt,0.7223,ff2d7e2be90fe62cfc0939a4e05fb5b3bf9b6ef20c0adeef6c06ec824e1f1ecf,all-MiniLM-L6-v2
+2026-07-18T08:53:45.580114,What happens if I fail to log in 5 times?,password_reset.txt,0.7139,ff2d7e2be90fe62cfc0939a4e05fb5b3bf9b6ef20c0adeef6c06ec824e1f1ecf,all-MiniLM-L6-v2
+2026-07-18T08:53:45.580114,How do I claim reimbursement for a business trip?,expense_reimbursement.txt,0.8402,d9f37faf49cf4b76ea030ef6dc71b393874d4d94264757b6f00aba5d9a911808,all-MiniLM-L6-v2
+2026-07-18T08:53:45.580114,Is alcohol reimbursable during business travel?,expense_reimbursement.txt,0.8012,d9f37faf49cf4b76ea030ef6dc71b393874d4d94264757b6f00aba5d9a911808,all-MiniLM-L6-v2
+2026-07-18T08:53:45.580114,How long does it take to get my expense claim processed?,expense_reimbursement.txt,0.7159,d9f37faf49cf4b76ea030ef6dc71b393874d4d94264757b6f00aba5d9a911808,all-MiniLM-L6-v2
+2026-07-18T08:53:45.580114,How many days per week can I work remotely?,remote_work_policy.txt,0.8423,3771a827e7035f7c1ea7cb9a32b4c144c996b1833829de098eec90c4aafa4fa2,all-MiniLM-L6-v2
+2026-07-18T08:53:45.580114,Do I need to inform HR if I work remotely from another city?,remote_work_policy.txt,0.7589,3771a827e7035f7c1ea7cb9a32b4c144c996b1833829de098eec90c4aafa4fa2,all-MiniLM-L6-v2
+2026-07-18T08:53:45.580114,Does the company provide equipment for remote work?,remote_work_policy.txt,0.7686,3771a827e7035f7c1ea7cb9a32b4c144c996b1833829de098eec90c4aafa4fa2,all-MiniLM-L6-v2
+2026-07-18T08:53:45.580114,When is the open enrollment period for benefits?,benefits_enrollment.txt,0.8307,ad92ce59370bca57a086275cda29a9ca7b00fe53f36536b5ce89077c840060d4,all-MiniLM-L6-v2
+2026-07-18T08:53:45.580114,Can I add my spouse to my health insurance plan?,benefits_enrollment.txt,0.7587,ad92ce59370bca57a086275cda29a9ca7b00fe53f36536b5ce89077c840060d4,all-MiniLM-L6-v2
+2026-07-18T08:53:45.580114,Does the company cover dental benefits?,benefits_enrollment.txt,0.6794,ad92ce59370bca57a086275cda29a9ca7b00fe53f36536b5ce89077c840060d4,all-MiniLM-L6-v2
